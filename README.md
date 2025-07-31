@@ -37,37 +37,4 @@ El objetivo es poner en práctica conceptos fundamentales de **lógica de progra
 
 ![Amigo Secreto](assets/amigo-secreto.png)
 
----
 
-## ⚡ Cómo ejecutar
-
-1. **Clonar el repositorio**:
-```bash
-git clone https://github.com/usuario/amigo-secreto.git
-```
-
-2. **Abrir el proyecto**:
-   - Abre el archivo `index.html` en tu navegador.
-
-No se requiere instalación de dependencias ya que todo está hecho con **HTML, CSS y JavaScript puro**.
-
----
-
-## 🛠️ Tecnologías utilizadas
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-
----
-
-## 🏆 Créditos
-
-Desarrollado como parte del programa **Oracle Next Education + Alura Latam**.
-
----
-
-## 🔗 Conecta conmigo
-
-- 💼 [LinkedIn](https://www.linkedin.com)
-- 📧 Contacto: tuemail@ejemplo.com

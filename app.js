@@ -1,8 +1,3 @@
-
-// =============================
-//  Challenge Amigo Secreto Mejorado
-// =============================
-
 // Lista de participantes
 let participantes = [];
 
